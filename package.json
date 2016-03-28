@@ -1,0 +1,28 @@
+{
+  "name": "scb_static",
+  "version": "1.0.0",
+  "description": "Serve static assets from local express server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThoughtWorksInc/scb_static.git"
+  },
+  "keywords": [
+    "SCB",
+    "Static",
+    "Assets"
+  ],
+  "author": "Cheng Long",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThoughtWorksInc/scb_static/issues"
+  },
+  "homepage": "https://github.com/ThoughtWorksInc/scb_static#readme"
+}
